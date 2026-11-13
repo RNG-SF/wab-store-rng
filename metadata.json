@@ -1,0 +1,6 @@
+{
+  "name": "RNG-SF Multi-Purpose Web Platform",
+  "description": "Multi-purpose digital business ecosystem with digital store, account system, dynamic HBD engine, and developer admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

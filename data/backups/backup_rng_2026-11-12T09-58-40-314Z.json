@@ -1,0 +1,2055 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Rangga",
+      "email": "sofyantorangga028@gmail.com",
+      "passwordHash": "$2b$10$vO4azb7CRp6C9Fs3rCYpqOk9/ujbfJqsh856WUXUNYr601H/dZCc2",
+      "role": "SUPER_ADMIN",
+      "mustChangePassword": true,
+      "phone": "+6281234567890",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "OWNER-RNG",
+      "referredBy": null,
+      "createdAt": "2026-11-12T00:02:13.935Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 2,
+      "username": "client_demo",
+      "email": "client@example.com",
+      "passwordHash": "$2b$10$6N6Z0x1sGltM4jw7NsesJ.4oFLM4pq.nqbesygB1YGJOf/sxW4JOe",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "+628987654321",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "CLIENT-DEMO",
+      "referredBy": 1,
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 3,
+      "username": "user_1794441734016",
+      "email": "user_1794441734016@test.com",
+      "passwordHash": "$2b$10$vTFLclXakYo3.OIcvUVZmO2IVRZxKmvAxtij1YIGsanGI0uZaBP8m",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "RNG-BA1JF",
+      "referredBy": null,
+      "createdAt": "2026-11-12T00:02:14.099Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 4,
+      "username": "user_1794442217744",
+      "email": "user_1794442217744@test.com",
+      "passwordHash": "$2b$10$Br/3fBfN611T.498ZQ/iZ.f9m1wdcIgmWnxyMaHbLd5.Don4qNHsC",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "RNG-QD846",
+      "referredBy": null,
+      "createdAt": "2026-11-12T00:10:17.854Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 5,
+      "username": "user_1794443671671",
+      "email": "user_1794443671671@test.com",
+      "passwordHash": "$2b$10$NtBGhQOu//d4t/4Gnp6iQOtyJdx2Gaio9tLFW2IbsMonjAlL8bmH2",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "RNG-TN1RE",
+      "referredBy": null,
+      "createdAt": "2026-11-12T00:34:31.776Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 6,
+      "username": "user_1794443783888",
+      "email": "user_1794443783888@test.com",
+      "passwordHash": "$2b$10$on4Z01TTSzUz9c/RAm3c5eQ1MB1QBgqdFbSyuw4wKrAwe3u8PQ/vW",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "RNG-4JHDI",
+      "referredBy": null,
+      "createdAt": "2026-11-12T00:36:23.994Z",
+      "lastLoginAt": null
+    },
+    {
+      "id": 7,
+      "username": "user_1794477520204",
+      "email": "user_1794477520204@test.com",
+      "passwordHash": "$2b$10$qBa395uFfUTE2Pj91ThJJOq4S5oU5xo1sAKkHuC52R5L0fdQQKU8O",
+      "role": "USER",
+      "mustChangePassword": false,
+      "phone": "",
+      "avatarUrl": "",
+      "isActive": true,
+      "failedLoginAttempts": 0,
+      "lockedUntil": null,
+      "referralCode": "RNG-V7ARV",
+      "referredBy": null,
+      "createdAt": "2026-11-12T09:58:40.305Z",
+      "lastLoginAt": null
+    }
+  ],
+  "userSessions": [],
+  "passwordResets": [],
+  "csrfTokens": [],
+  "loginAttempts": [
+    {
+      "id": 25,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T09:58:40.309Z"
+    },
+    {
+      "id": 24,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T09:58:40.309Z"
+    },
+    {
+      "id": 23,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T09:58:40.308Z"
+    },
+    {
+      "id": 22,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T09:58:40.308Z"
+    },
+    {
+      "id": 21,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T09:58:40.307Z"
+    },
+    {
+      "id": 20,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:36:23.996Z"
+    },
+    {
+      "id": 19,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:36:23.996Z"
+    },
+    {
+      "id": 18,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:36:23.996Z"
+    },
+    {
+      "id": 17,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:36:23.996Z"
+    },
+    {
+      "id": 16,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:36:23.996Z"
+    },
+    {
+      "id": 15,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:34:31.778Z"
+    },
+    {
+      "id": 14,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:34:31.778Z"
+    },
+    {
+      "id": 13,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:34:31.778Z"
+    },
+    {
+      "id": 12,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:34:31.777Z"
+    },
+    {
+      "id": 11,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:34:31.777Z"
+    },
+    {
+      "id": 10,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:10:17.856Z"
+    },
+    {
+      "id": 9,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:10:17.856Z"
+    },
+    {
+      "id": 8,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:10:17.855Z"
+    },
+    {
+      "id": 7,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:10:17.855Z"
+    },
+    {
+      "id": 6,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:10:17.855Z"
+    },
+    {
+      "id": 5,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:02:14.102Z"
+    },
+    {
+      "id": 4,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:02:14.101Z"
+    },
+    {
+      "id": 3,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:02:14.101Z"
+    },
+    {
+      "id": 2,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:02:14.101Z"
+    },
+    {
+      "id": 1,
+      "username": "fake_user",
+      "ipAddress": "192.168.1.100",
+      "userAgent": "",
+      "success": false,
+      "attemptedAt": "2026-11-12T00:02:14.101Z"
+    }
+  ],
+  "productCategories": [
+    {
+      "id": 1,
+      "name": "AI Services",
+      "slug": "ai-services",
+      "description": "Layanan AI, paket akses API, LLM bot token, dan credit generation",
+      "icon": "Bot",
+      "displayOrder": 1,
+      "isActive": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "name": "Social Media",
+      "slug": "social-media",
+      "description": "Manajemen konten, marketing tool, dan analitik TikTok, Instagram, Facebook",
+      "icon": "Share2",
+      "displayOrder": 2,
+      "isActive": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 3,
+      "name": "Digital Subscription",
+      "slug": "digital-subscription",
+      "description": "Layanan berlangganan digital, premium pass, dan software tools",
+      "icon": "CreditCard",
+      "displayOrder": 3,
+      "isActive": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 4,
+      "name": "Hosting & Server",
+      "slug": "hosting-server",
+      "description": "Hosting bot WhatsApp, cloud VPS, web hosting, dan server computing",
+      "icon": "Server",
+      "displayOrder": 4,
+      "isActive": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 5,
+      "name": "Digital Products",
+      "slug": "digital-products",
+      "description": "Source code siap pakai, UI templates, script otomasi, dan modul digital",
+      "icon": "Package",
+      "displayOrder": 5,
+      "isActive": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Gemini Pro AI API Enterprise Bundle",
+      "slug": "gemini-pro-ai-api-enterprise",
+      "categoryId": 1,
+      "categoryName": "AI Services",
+      "subcategory": "API Credits",
+      "description": "Akses API model AI tingkat tinggi dengan rate limit 60 RPM, dukungan streaming multimodal, dan integrasi webhook backend.",
+      "basePrice": 150000,
+      "stock": -1,
+      "duration": "30 Hari",
+      "termsOfService": "Dilarang menggunakan API untuk aktivitas melanggar privasi, spam, atau cracking.",
+      "serviceStatus": "ACTIVE",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=80",
+      "specifications": "{\"rateLimit\":\"60 RPM\",\"tokens\":\"1,000,000 Tokens\",\"support\":\"24/7 Priority\",\"format\":\"REST / SDK\"}",
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "updatedAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "title": "Social Analytics & Engagement Engine (IG / TikTok)",
+      "slug": "social-analytics-engagement-engine",
+      "categoryId": 2,
+      "categoryName": "Social Media",
+      "subcategory": "Marketing & Analytics",
+      "description": "Dashboard pelacak performa postingan, hashtag optimal, analisis audiens, dan audit profil sosial media profesional.",
+      "basePrice": 95000,
+      "stock": 50,
+      "duration": "30 Hari",
+      "termsOfService": "Tool kepatuhan resmi tanpa scraping ilegal atau peretasan akun.",
+      "serviceStatus": "ACTIVE",
+      "imageUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&auto=format&fit=crop&q=80",
+      "specifications": "{\"platforms\":\"Instagram, TikTok, FB\",\"reports\":\"Weekly PDF Export\",\"accounts\":\"Hingga 5 Akun\"}",
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "updatedAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 3,
+      "title": "Developer Cloud VPS & Node.js Runtime",
+      "slug": "developer-cloud-vps-nodejs",
+      "categoryId": 4,
+      "categoryName": "Hosting & Server",
+      "subcategory": "Cloud Compute",
+      "description": "Dedicated cloud server dengan SSD NVMe, akses SSH root, Node.js panel terinstal, dan proteksi DDoS mitigasi tinggi.",
+      "basePrice": 120000,
+      "stock": 20,
+      "duration": "1 Bulan",
+      "termsOfService": "Tunduk pada AUP hosting. Dilarang botnet, torrent, mining crypto.",
+      "serviceStatus": "ACTIVE",
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
+      "specifications": "{\"cpu\":\"2 vCPU\",\"ram\":\"4 GB DDR4\",\"storage\":\"40 GB NVMe\",\"bandwidth\":\"1 Gbps Unmetered\"}",
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "updatedAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 4,
+      "title": "WhatsApp Bot Multi-Session Hosting Engine",
+      "slug": "whatsapp-bot-multi-session-hosting",
+      "categoryId": 4,
+      "categoryName": "Hosting & Server",
+      "subcategory": "Bot Runtimes",
+      "description": "Server uptime 99.9% khusus runtime WhatsApp Bot (Baileys/WPPConnect), auto-restart daemon, dan monitoring konsol live.",
+      "basePrice": 75000,
+      "stock": 35,
+      "duration": "30 Hari",
+      "termsOfService": "Gunakan dengan nomor sah Anda. Segala penyalahgunaan spam di luar tanggung jawab platform.",
+      "serviceStatus": "ACTIVE",
+      "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=80",
+      "specifications": "{\"sessions\":\"3 Nomor Simultan\",\"uptime\":\"99.9%\",\"backup\":\"Daily Auto-Backup\",\"panel\":\"RNG Web Terminal\"}",
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "updatedAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 5,
+      "title": "RNG-SF Ultimate Full-Stack Source Kit",
+      "slug": "rng-sf-ultimate-fullstack-source-kit",
+      "categoryId": 5,
+      "categoryName": "Digital Products",
+      "subcategory": "Source Code",
+      "description": "Full code repository lengkap dengan Express backend, React Tailwind client, migrasi PostgreSQL, dokumentasi, dan lisensi komersial.",
+      "basePrice": 350000,
+      "stock": -1,
+      "duration": "Lifetime",
+      "termsOfService": "Lisensi pengembang untuk 1 proyek komersial. Dilarang menjual ulang source mentah.",
+      "serviceStatus": "ACTIVE",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+      "specifications": "{\"framework\":\"Express + React 19\",\"db\":\"PostgreSQL + Drizzle\",\"auth\":\"JWT + HttpOnly\",\"license\":\"Commercial Extended\"}",
+      "createdAt": "2026-11-12T00:02:14.014Z",
+      "updatedAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "productPackages": [
+    {
+      "id": 1,
+      "productId": 1,
+      "name": "Starter 500k Tokens",
+      "price": 90000,
+      "durationDays": 30,
+      "stock": -1,
+      "features": "[\"500,000 Tokens\",\"30 RPM Limit\",\"Email Support\"]"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "name": "Pro Enterprise 1.5M Tokens",
+      "price": 210000,
+      "durationDays": 30,
+      "stock": -1,
+      "features": "[\"1,500,000 Tokens\",\"60 RPM Limit\",\"Dedicated Telegram Support\",\"Fine-tuning Ready\"]"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "name": "Basic 2GB RAM / 1 vCPU",
+      "price": 70000,
+      "durationDays": 30,
+      "stock": 15,
+      "features": "[\"1 vCPU\",\"2 GB RAM\",\"25 GB SSD\",\"1 TB Bandwidth\"]"
+    },
+    {
+      "id": 4,
+      "productId": 3,
+      "name": "Pro 4GB RAM / 2 vCPU",
+      "price": 120000,
+      "durationDays": 30,
+      "stock": 10,
+      "features": "[\"2 vCPU\",\"4 GB RAM\",\"50 GB NVMe\",\"Unmetered 1 Gbps\",\"Automated Backups\"]"
+    }
+  ],
+  "productAssets": [],
+  "digitalLicenses": [
+    {
+      "id": 1,
+      "productId": 5,
+      "packageId": null,
+      "licenseKey": "RNG-PRO-8921-XKQZ-2026",
+      "isAllocated": false,
+      "orderId": null,
+      "allocatedAt": null,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "productId": 5,
+      "packageId": null,
+      "licenseKey": "RNG-PRO-4412-MBNP-2026",
+      "isAllocated": false,
+      "orderId": null,
+      "allocatedAt": null,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "packageId": 1,
+      "licenseKey": "AI-API-KEY-7749-DEMO-AUTH",
+      "isAllocated": false,
+      "orderId": null,
+      "allocatedAt": null,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": 6,
+      "orderNumber": "RNG-20261112-0006",
+      "userId": 7,
+      "totalAmount": 300000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "test_idemp_1794477520310",
+      "customerNotes": "",
+      "createdAt": "2026-11-12T09:58:40.310Z",
+      "updatedAt": "2026-11-12T09:58:40.311Z"
+    },
+    {
+      "id": 5,
+      "orderNumber": "RNG-20261112-0005",
+      "userId": 6,
+      "totalAmount": 300000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "test_idemp_1794443783997",
+      "customerNotes": "",
+      "createdAt": "2026-11-12T00:36:23.997Z",
+      "updatedAt": "2026-11-12T00:36:23.998Z"
+    },
+    {
+      "id": 4,
+      "orderNumber": "RNG-20261112-0004",
+      "userId": 5,
+      "totalAmount": 300000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "test_idemp_1794443671779",
+      "customerNotes": "",
+      "createdAt": "2026-11-12T00:34:31.779Z",
+      "updatedAt": "2026-11-12T00:34:31.780Z"
+    },
+    {
+      "id": 3,
+      "orderNumber": "RNG-20261112-0003",
+      "userId": 4,
+      "totalAmount": 300000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "test_idemp_1794442217856",
+      "customerNotes": "",
+      "createdAt": "2026-11-12T00:10:17.856Z",
+      "updatedAt": "2026-11-12T00:10:17.858Z"
+    },
+    {
+      "id": 2,
+      "orderNumber": "RNG-20261112-0002",
+      "userId": 3,
+      "totalAmount": 300000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "test_idemp_1794441734102",
+      "customerNotes": "",
+      "createdAt": "2026-11-12T00:02:14.102Z",
+      "updatedAt": "2026-11-12T00:02:14.103Z"
+    },
+    {
+      "id": 1,
+      "orderNumber": "RNG-202611-0001",
+      "userId": 2,
+      "totalAmount": 150000,
+      "status": "PAID",
+      "paymentMethod": "QRIS",
+      "idempotencyKey": "idemp_demo_order_0001",
+      "customerNotes": "Aktivasi ke email client@example.com",
+      "createdAt": "2026-11-10T00:02:14.014Z",
+      "updatedAt": "2026-11-10T00:02:14.014Z"
+    }
+  ],
+  "orderItems": [
+    {
+      "id": 1,
+      "orderId": 1,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar Enterprise",
+      "quantity": 1,
+      "unitPrice": 150000,
+      "subtotal": 150000
+    },
+    {
+      "id": 2,
+      "orderId": 2,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar",
+      "quantity": 2,
+      "unitPrice": 150000,
+      "subtotal": 300000
+    },
+    {
+      "id": 3,
+      "orderId": 3,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar",
+      "quantity": 2,
+      "unitPrice": 150000,
+      "subtotal": 300000
+    },
+    {
+      "id": 4,
+      "orderId": 4,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar",
+      "quantity": 2,
+      "unitPrice": 150000,
+      "subtotal": 300000
+    },
+    {
+      "id": 5,
+      "orderId": 5,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar",
+      "quantity": 2,
+      "unitPrice": 150000,
+      "subtotal": 300000
+    },
+    {
+      "id": 6,
+      "orderId": 6,
+      "productId": 1,
+      "packageId": null,
+      "productTitle": "Gemini Pro AI API Enterprise Bundle",
+      "packageName": "Standar",
+      "quantity": 2,
+      "unitPrice": 150000,
+      "subtotal": 300000
+    }
+  ],
+  "payments": [
+    {
+      "id": 6,
+      "orderId": 6,
+      "transactionId": "TRX-QRIS-RNG-20261112-0006",
+      "amount": 300000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-12T09:58:40.311Z",
+      "createdAt": "2026-11-12T09:58:40.310Z"
+    },
+    {
+      "id": 5,
+      "orderId": 5,
+      "transactionId": "TRX-QRIS-RNG-20261112-0005",
+      "amount": 300000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-12T00:36:23.998Z",
+      "createdAt": "2026-11-12T00:36:23.997Z"
+    },
+    {
+      "id": 4,
+      "orderId": 4,
+      "transactionId": "TRX-QRIS-RNG-20261112-0004",
+      "amount": 300000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-12T00:34:31.780Z",
+      "createdAt": "2026-11-12T00:34:31.779Z"
+    },
+    {
+      "id": 3,
+      "orderId": 3,
+      "transactionId": "TRX-QRIS-RNG-20261112-0003",
+      "amount": 300000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-12T00:10:17.858Z",
+      "createdAt": "2026-11-12T00:10:17.856Z"
+    },
+    {
+      "id": 2,
+      "orderId": 2,
+      "transactionId": "TRX-QRIS-RNG-20261112-0002",
+      "amount": 300000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-12T00:02:14.103Z",
+      "createdAt": "2026-11-12T00:02:14.102Z"
+    },
+    {
+      "id": 1,
+      "orderId": 1,
+      "transactionId": "TRX-QRIS-202611-0001",
+      "amount": 150000,
+      "provider": "QRIS_DEV",
+      "status": "SUCCESS",
+      "paymentProofUrl": "",
+      "verifiedByUserId": 1,
+      "verifiedAt": "2026-11-10T00:02:14.014Z",
+      "createdAt": "2026-11-10T00:02:14.014Z"
+    }
+  ],
+  "refunds": [],
+  "paymentEvents": [
+    {
+      "id": 1,
+      "paymentId": 1,
+      "eventType": "VERIFIED",
+      "payload": "{\"method\":\"QRIS\",\"transactionId\":\"TRX-QRIS-202611-0001\",\"verifiedBy\":\"System Auto-Reconciliation\"}",
+      "createdAt": "2026-11-10T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "paymentId": 2,
+      "eventType": "VERIFIED",
+      "payload": "{\"verifiedBy\":\"User #1\"}",
+      "createdAt": "2026-11-12T00:02:14.103Z"
+    },
+    {
+      "id": 3,
+      "paymentId": 3,
+      "eventType": "VERIFIED",
+      "payload": "{\"verifiedBy\":\"User #1\"}",
+      "createdAt": "2026-11-12T00:10:17.858Z"
+    },
+    {
+      "id": 4,
+      "paymentId": 4,
+      "eventType": "VERIFIED",
+      "payload": "{\"verifiedBy\":\"User #1\"}",
+      "createdAt": "2026-11-12T00:34:31.780Z"
+    },
+    {
+      "id": 5,
+      "paymentId": 5,
+      "eventType": "VERIFIED",
+      "payload": "{\"verifiedBy\":\"User #1\"}",
+      "createdAt": "2026-11-12T00:36:23.998Z"
+    },
+    {
+      "id": 6,
+      "paymentId": 6,
+      "eventType": "VERIFIED",
+      "payload": "{\"verifiedBy\":\"User #1\"}",
+      "createdAt": "2026-11-12T09:58:40.311Z"
+    }
+  ],
+  "paymentReconciliations": [
+    {
+      "id": 1,
+      "reconciliationDate": "2026-11-12",
+      "totalGatewayAmount": 150000,
+      "totalSystemAmount": 150000,
+      "discrepancyCount": 0,
+      "status": "MATCHED",
+      "reconciledByUserId": 1,
+      "details": "{\"verifiedOrders\":1,\"totalAmount\":150000,\"discrepancyList\":[]}",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "webhookEvents": [],
+  "idempotencyRecords": [],
+  "serviceActivations": [
+    {
+      "id": 1,
+      "orderId": 1,
+      "userId": 2,
+      "productId": 1,
+      "activationKey": "AI-KEY-ENT-9921-ACTIVE",
+      "accessDetails": "{\"endpoint\":\"https://api.rng-sf.id/v1/gemini\",\"tokenLimit\":\"1,000,000\",\"validStatus\":\"Active\"}",
+      "validUntil": "2026-12-10T00:02:14.014Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "orderId": 2,
+      "userId": 3,
+      "productId": 1,
+      "activationKey": "RNG-ACT-HOVVXL-3JGJ",
+      "accessDetails": "{\"product\":\"Gemini Pro AI API Enterprise Bundle\",\"package\":\"Standar\",\"activationDate\":\"2026-11-12T00:02:14.103Z\",\"status\":\"Layanan Aktif\",\"portal\":\"https://rng-sf.id/dashboard/services\"}",
+      "validUntil": "2026-12-12T00:02:14.103Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-12T00:02:14.103Z"
+    },
+    {
+      "id": 3,
+      "orderId": 3,
+      "userId": 4,
+      "productId": 1,
+      "activationKey": "RNG-ACT-TGB934-UPZG",
+      "accessDetails": "{\"product\":\"Gemini Pro AI API Enterprise Bundle\",\"package\":\"Standar\",\"activationDate\":\"2026-11-12T00:10:17.858Z\",\"status\":\"Layanan Aktif\",\"portal\":\"https://rng-sf.id/dashboard/services\"}",
+      "validUntil": "2026-12-12T00:10:17.858Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-12T00:10:17.858Z"
+    },
+    {
+      "id": 4,
+      "orderId": 4,
+      "userId": 5,
+      "productId": 1,
+      "activationKey": "RNG-ACT-KB2ZMH-J0HW",
+      "accessDetails": "{\"product\":\"Gemini Pro AI API Enterprise Bundle\",\"package\":\"Standar\",\"activationDate\":\"2026-11-12T00:34:31.780Z\",\"status\":\"Layanan Aktif\",\"portal\":\"https://rng-sf.id/dashboard/services\"}",
+      "validUntil": "2026-12-12T00:34:31.780Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-12T00:34:31.780Z"
+    },
+    {
+      "id": 5,
+      "orderId": 5,
+      "userId": 6,
+      "productId": 1,
+      "activationKey": "RNG-ACT-7W4XUD-C17R",
+      "accessDetails": "{\"product\":\"Gemini Pro AI API Enterprise Bundle\",\"package\":\"Standar\",\"activationDate\":\"2026-11-12T00:36:23.998Z\",\"status\":\"Layanan Aktif\",\"portal\":\"https://rng-sf.id/dashboard/services\"}",
+      "validUntil": "2026-12-12T00:36:23.998Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-12T00:36:23.998Z"
+    },
+    {
+      "id": 6,
+      "orderId": 6,
+      "userId": 7,
+      "productId": 1,
+      "activationKey": "RNG-ACT-6XH8DY-PBHK",
+      "accessDetails": "{\"product\":\"Gemini Pro AI API Enterprise Bundle\",\"package\":\"Standar\",\"activationDate\":\"2026-11-12T09:58:40.311Z\",\"status\":\"Layanan Aktif\",\"portal\":\"https://rng-sf.id/dashboard/services\"}",
+      "validUntil": "2026-12-12T09:58:40.311Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-12T09:58:40.311Z"
+    }
+  ],
+  "serviceRenewals": [],
+  "expirationHistory": [],
+  "hbdPages": [
+    {
+      "id": 1,
+      "slug": "happy-21-sarah",
+      "recipientName": "Sarah Amanda",
+      "title": "Happy 21st Birthday, Sarah! ✨",
+      "eventDate": "2026-11-20",
+      "message": "Selamat ulang tahun yang ke-21! Semoga hari-harimu selalu dipenuhi kebahagiaan, kesehatan, kesuksesan, dan impian-impian besarmu tercapai satu per satu. Nikmati perjalanan hidupmu dengan senyuman terbaik!",
+      "theme": "lavender-noir",
+      "musicUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3?filename=lofi-study-112191.mp3",
+      "photos": "[\"https://images.unsplash.com/photo-1517841905240-472988babdf9?w=800&auto=format&fit=crop&q=80\",\"https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&auto=format&fit=crop&q=80\",\"https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&auto=format&fit=crop&q=80\"]",
+      "isActive": true,
+      "viewsCount": 47,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "hbdGuestbook": [
+    {
+      "id": 1,
+      "hbdPageId": 1,
+      "authorName": "Rangga (Developer)",
+      "message": "Barakallah fii umrik Sarah! Sukses selalu studinya dan selalu menginspirasi.",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "hbdPageId": 1,
+      "authorName": "Dina & Friends",
+      "message": "Happy Birthday Sarah sayang! Nanti kita traktiran ya!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 3,
+      "hbdPageId": 1,
+      "authorName": "Unit Tester",
+      "message": "Happy Birthday Test Message!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:02:14.105Z"
+    },
+    {
+      "id": 4,
+      "hbdPageId": 1,
+      "authorName": "Unit Tester",
+      "message": "Happy Birthday Test Message!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:10:17.859Z"
+    },
+    {
+      "id": 5,
+      "hbdPageId": 1,
+      "authorName": "Unit Tester",
+      "message": "Happy Birthday Test Message!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:34:31.781Z"
+    },
+    {
+      "id": 6,
+      "hbdPageId": 1,
+      "authorName": "Unit Tester",
+      "message": "Happy Birthday Test Message!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T00:36:24.000Z"
+    },
+    {
+      "id": 7,
+      "hbdPageId": 1,
+      "authorName": "Unit Tester",
+      "message": "Happy Birthday Test Message!",
+      "isApproved": true,
+      "createdAt": "2026-11-12T09:58:40.313Z"
+    }
+  ],
+  "mediaAssets": [],
+  "partners": [
+    {
+      "id": 1,
+      "userId": 1,
+      "referralCode": "OWNER-RNG",
+      "commissionRate": 15,
+      "totalEarnings": 22500,
+      "pendingBalance": 22500,
+      "paidBalance": 0,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "partnerCommissions": [
+    {
+      "id": 1,
+      "partnerId": 1,
+      "orderId": 1,
+      "commissionRate": 15,
+      "amount": 22500,
+      "status": "APPROVED",
+      "paidAt": null,
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "partnerPayouts": [],
+  "creatorSubmissions": [
+    {
+      "id": 1,
+      "creatorId": 2,
+      "title": "Modern Cyberpunk HBD Theme Template",
+      "category": "HBD Theme",
+      "fileUrl": "https://rng-sf.id/assets/templates/cyberpunk-hbd.zip",
+      "demoUrl": "https://rng-sf.id/demo/cyberpunk-hbd",
+      "status": "APPROVED",
+      "rewardAmount": 100000,
+      "reviewNotes": "Desain sangat bagus dan animasi partikel responsif.",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "creatorRewards": [
+    {
+      "id": 1,
+      "creatorId": 2,
+      "submissionId": 1,
+      "amount": 100000,
+      "status": "PAID",
+      "paidAt": "2026-11-12T00:02:14.014Z",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 7,
+      "userId": 7,
+      "title": "Pembayaran Pesanan #RNG-20261112-0006 Berhasil",
+      "message": "Terima kasih! Layanan digital Anda telah aktif dan dapat diakses dari dashboard.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T09:58:40.311Z"
+    },
+    {
+      "id": 6,
+      "userId": 6,
+      "title": "Pembayaran Pesanan #RNG-20261112-0005 Berhasil",
+      "message": "Terima kasih! Layanan digital Anda telah aktif dan dapat diakses dari dashboard.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T00:36:23.998Z"
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "title": "Pembayaran Pesanan #RNG-20261112-0004 Berhasil",
+      "message": "Terima kasih! Layanan digital Anda telah aktif dan dapat diakses dari dashboard.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T00:34:31.780Z"
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "title": "Pembayaran Pesanan #RNG-20261112-0003 Berhasil",
+      "message": "Terima kasih! Layanan digital Anda telah aktif dan dapat diakses dari dashboard.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T00:10:17.858Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "title": "Pembayaran Pesanan #RNG-20261112-0002 Berhasil",
+      "message": "Terima kasih! Layanan digital Anda telah aktif dan dapat diakses dari dashboard.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T00:02:14.103Z"
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Platform Berhasil Diinisialisasi",
+      "message": "Selamat datang di RNG-SF Ecosystem! Akun Super Admin telah diamankan.",
+      "type": "SYSTEM",
+      "isRead": false,
+      "actionUrl": "/admin",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Pesanan #RNG-202611-0001 Aktif",
+      "message": "Layanan Gemini Pro AI API Enterprise Bundle Anda telah aktif dan siap digunakan.",
+      "type": "ORDER",
+      "isRead": false,
+      "actionUrl": "/dashboard/orders",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "backupRecords": [
+    {
+      "id": 5,
+      "createdByUserId": 1,
+      "filename": "backup_rng_2026-11-12T00-36-24-000Z.json",
+      "sizeBytes": 37762,
+      "checksum": "sha256_kowrgdt93s",
+      "status": "SUCCESS",
+      "downloadUrl": "/api/admin/backup/download/backup_rng_2026-11-12T00-36-24-000Z.json",
+      "isolatedTestStatus": "VERIFIED",
+      "createdAt": "2026-11-12T00:36:24.001Z"
+    },
+    {
+      "id": 4,
+      "createdByUserId": 1,
+      "filename": "backup_rng_2026-11-12T00-34-31-782Z.json",
+      "sizeBytes": 32265,
+      "checksum": "sha256_h8e0iyakfj",
+      "status": "SUCCESS",
+      "downloadUrl": "/api/admin/backup/download/backup_rng_2026-11-12T00-34-31-782Z.json",
+      "isolatedTestStatus": "VERIFIED",
+      "createdAt": "2026-11-12T00:34:31.782Z"
+    },
+    {
+      "id": 3,
+      "createdByUserId": 1,
+      "filename": "backup_rng_2026-11-12T00-10-17-860Z.json",
+      "sizeBytes": 26768,
+      "checksum": "sha256_0zt2jt79or",
+      "status": "SUCCESS",
+      "downloadUrl": "/api/admin/backup/download/backup_rng_2026-11-12T00-10-17-860Z.json",
+      "isolatedTestStatus": "VERIFIED",
+      "createdAt": "2026-11-12T00:10:17.860Z"
+    },
+    {
+      "id": 2,
+      "createdByUserId": 1,
+      "filename": "backup_rng_2026-11-12T00-02-14-105Z.json",
+      "sizeBytes": 21280,
+      "checksum": "sha256_cyucfwt20b",
+      "status": "SUCCESS",
+      "downloadUrl": "/api/admin/backup/download/backup_rng_2026-11-12T00-02-14-105Z.json",
+      "isolatedTestStatus": "VERIFIED",
+      "createdAt": "2026-11-12T00:02:14.105Z"
+    },
+    {
+      "id": 1,
+      "createdByUserId": 1,
+      "filename": "backup_initial_bootstrap_202611.json",
+      "sizeBytes": 18450,
+      "checksum": "sha256_e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "SUCCESS",
+      "downloadUrl": "/api/admin/backup/download/1",
+      "isolatedTestStatus": "VERIFIED",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "systemSettings": [
+    {
+      "key": "site_name",
+      "value": "\"RNG-SF Multi-Purpose Ecosystem\"",
+      "description": "Nama publik website platform",
+      "updatedAt": "2026-11-12T00:02:14.014Z",
+      "updatedBy": 1
+    },
+    {
+      "key": "maintenance_mode",
+      "value": "false",
+      "description": "Status mode pemeliharaan platform",
+      "updatedAt": "2026-11-12T00:02:14.014Z",
+      "updatedBy": 1
+    },
+    {
+      "key": "announcement_banner",
+      "value": "{\"active\":true,\"text\":\"Selamat datang di RNG-SF: Platform Bisnis Digital, Store & Dynamic Greetings!\",\"type\":\"info\"}",
+      "description": "Teks pengumuman di bagian atas website",
+      "updatedAt": "2026-11-12T00:02:14.014Z",
+      "updatedBy": 1
+    },
+    {
+      "key": "payment_gateway_mode",
+      "value": "\"HYBRID_VERIFIED\"",
+      "description": "Mode verifikasi gateway transaksi",
+      "updatedAt": "2026-11-12T00:02:14.014Z",
+      "updatedBy": 1
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": 24,
+      "userId": 1,
+      "action": "ORDER_FULFILLED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0006\",\"totalAmount\":300000}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T09:58:40.312Z"
+    },
+    {
+      "id": 23,
+      "userId": 7,
+      "action": "ORDER_CREATED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0006\",\"totalAmount\":300000,\"paymentMethod\":\"QRIS\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T09:58:40.310Z"
+    },
+    {
+      "id": 22,
+      "userId": 7,
+      "action": "USER_REGISTERED",
+      "targetEntity": "USERS",
+      "details": "{\"username\":\"user_1794477520204\",\"email\":\"user_1794477520204@test.com\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T09:58:40.306Z"
+    },
+    {
+      "id": 21,
+      "userId": 1,
+      "action": "BACKUP_RESTORE_TEST_SUCCESS",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-36-24-000Z.json\",\"usersCount\":6,\"productsCount\":5}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:36:24.002Z"
+    },
+    {
+      "id": 20,
+      "userId": 1,
+      "action": "BACKUP_CREATED",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-36-24-000Z.json\",\"sizeBytes\":37762}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:36:24.001Z"
+    },
+    {
+      "id": 19,
+      "userId": 1,
+      "action": "ORDER_FULFILLED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0005\",\"totalAmount\":300000}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:36:23.999Z"
+    },
+    {
+      "id": 18,
+      "userId": 6,
+      "action": "ORDER_CREATED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0005\",\"totalAmount\":300000,\"paymentMethod\":\"QRIS\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:36:23.997Z"
+    },
+    {
+      "id": 17,
+      "userId": 6,
+      "action": "USER_REGISTERED",
+      "targetEntity": "USERS",
+      "details": "{\"username\":\"user_1794443783888\",\"email\":\"user_1794443783888@test.com\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:36:23.995Z"
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "action": "BACKUP_RESTORE_TEST_SUCCESS",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-34-31-782Z.json\",\"usersCount\":5,\"productsCount\":5}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:34:31.784Z"
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "action": "BACKUP_CREATED",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-34-31-782Z.json\",\"sizeBytes\":32265}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:34:31.782Z"
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "action": "ORDER_FULFILLED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0004\",\"totalAmount\":300000}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:34:31.780Z"
+    },
+    {
+      "id": 13,
+      "userId": 5,
+      "action": "ORDER_CREATED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0004\",\"totalAmount\":300000,\"paymentMethod\":\"QRIS\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:34:31.779Z"
+    },
+    {
+      "id": 12,
+      "userId": 5,
+      "action": "USER_REGISTERED",
+      "targetEntity": "USERS",
+      "details": "{\"username\":\"user_1794443671671\",\"email\":\"user_1794443671671@test.com\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:34:31.777Z"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "action": "BACKUP_RESTORE_TEST_SUCCESS",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-10-17-860Z.json\",\"usersCount\":4,\"productsCount\":5}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:10:17.861Z"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "action": "BACKUP_CREATED",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-10-17-860Z.json\",\"sizeBytes\":26768}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:10:17.860Z"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "action": "ORDER_FULFILLED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0003\",\"totalAmount\":300000}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:10:17.858Z"
+    },
+    {
+      "id": 8,
+      "userId": 4,
+      "action": "ORDER_CREATED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0003\",\"totalAmount\":300000,\"paymentMethod\":\"QRIS\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:10:17.857Z"
+    },
+    {
+      "id": 7,
+      "userId": 4,
+      "action": "USER_REGISTERED",
+      "targetEntity": "USERS",
+      "details": "{\"username\":\"user_1794442217744\",\"email\":\"user_1794442217744@test.com\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:10:17.855Z"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "action": "BACKUP_RESTORE_TEST_SUCCESS",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-02-14-105Z.json\",\"usersCount\":3,\"productsCount\":5}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.106Z"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "action": "BACKUP_CREATED",
+      "targetEntity": "SYSTEM",
+      "details": "{\"filename\":\"backup_rng_2026-11-12T00-02-14-105Z.json\",\"sizeBytes\":21280}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.106Z"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "action": "ORDER_FULFILLED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0002\",\"totalAmount\":300000}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.104Z"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "action": "ORDER_CREATED",
+      "targetEntity": "ORDERS",
+      "details": "{\"orderNumber\":\"RNG-20261112-0002\",\"totalAmount\":300000,\"paymentMethod\":\"QRIS\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.102Z"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "action": "USER_REGISTERED",
+      "targetEntity": "USERS",
+      "details": "{\"username\":\"user_1794441734016\",\"email\":\"user_1794441734016@test.com\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.100Z"
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "action": "PLATFORM_BOOTSTRAP",
+      "targetEntity": "SYSTEM",
+      "details": "{\"role\":\"SUPER_ADMIN\",\"owner\":\"Rangga\",\"email\":\"sofyantorangga028@gmail.com\",\"version\":\"v8.0.0\"}",
+      "ipAddress": "127.0.0.1",
+      "createdAt": "2026-11-12T00:02:14.014Z"
+    }
+  ],
+  "metadata": {
+    "version": "v8.0.0",
+    "lastUpdated": "2026-11-12T09:58:40.313Z"
+  },
+  "roles": [
+    {
+      "id": 1,
+      "name": "SUPER_ADMIN",
+      "label": "Super Admin (Owner Platform)",
+      "description": "Akses penuh tanpa batas: manajemen pengguna, peran & izin RBAC, katalog store, transaksi, gateway, backup, dan audit logs.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.164Z"
+    },
+    {
+      "id": 2,
+      "name": "STORE_MANAGER",
+      "label": "Store Manager",
+      "description": "Mengelola produk digital, paket harga, stok, pesanan pelanggan, rekonsiliasi gateway, dan proses refund.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.165Z"
+    },
+    {
+      "id": 3,
+      "name": "CONTENT_MANAGER",
+      "label": "Content Manager",
+      "description": "Mengelola halaman ucapan HBD dinamis, kartu ucapan wishes, moderasi guestbook, dan galeri media.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.165Z"
+    },
+    {
+      "id": 4,
+      "name": "PARTNER",
+      "label": "Partner & Affiliate",
+      "description": "Mengakses dashboard referral, melacak klik & transaksi terafiliasi, memantau komisi, dan permohonan payout.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.165Z"
+    },
+    {
+      "id": 5,
+      "name": "CREATOR",
+      "label": "Digital Creator",
+      "description": "Mengirimkan template karya ucapan, melacak review admin, dan menerima reward kreator digital.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.165Z"
+    },
+    {
+      "id": 6,
+      "name": "USER",
+      "label": "Regular User",
+      "description": "Pengguna terdaftar: berbelanja di Digital Store, checkout pembayaran instan, melihat lisensi aktif, dan ucapan.",
+      "isSystem": true,
+      "createdAt": "2026-11-12T09:58:40.165Z"
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "name": "users:read",
+      "module": "users",
+      "description": "Melihat daftar seluruh pengguna dan profil",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 2,
+      "name": "users:manage",
+      "module": "users",
+      "description": "Mengubah status akun, blokir/unblock pengguna",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 3,
+      "name": "roles:manage",
+      "module": "users",
+      "description": "Menetapkan dan mengubah peran pengguna (RBAC)",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 4,
+      "name": "products:read",
+      "module": "products",
+      "description": "Melihat katalog produk dan detail spesifikasi",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 5,
+      "name": "products:create",
+      "module": "products",
+      "description": "Menambahkan produk baru ke katalog",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 6,
+      "name": "products:edit",
+      "module": "products",
+      "description": "Mengubah harga, stok, paket varian, dan status layanan",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 7,
+      "name": "products:delete",
+      "module": "products",
+      "description": "Menghapus produk dari katalog",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 8,
+      "name": "orders:read",
+      "module": "orders",
+      "description": "Melihat seluruh riwayat pesanan platform",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 9,
+      "name": "orders:manage",
+      "module": "orders",
+      "description": "Mengubah status pesanan dan memicu pemenuhan lisensi",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 10,
+      "name": "orders:refund",
+      "module": "orders",
+      "description": "Memproses pengembalian dana (refund) pesanan",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 11,
+      "name": "payments:read",
+      "module": "payments",
+      "description": "Melihat transaksi payment gateway dan log webhook",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 12,
+      "name": "payments:reconcile",
+      "module": "payments",
+      "description": "Melakukan rekonsiliasi selisih transaksi gateway",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 13,
+      "name": "payments:manual_verify",
+      "module": "payments",
+      "description": "Menyetujui manual bukti transfer / QRIS dev",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 14,
+      "name": "content:read",
+      "module": "content",
+      "description": "Melihat daftar halaman ucapan HBD dan showcase",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 15,
+      "name": "content:manage_hbd",
+      "module": "content",
+      "description": "Membuat dan mengedit halaman ucapan interaktif",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 16,
+      "name": "content:moderate_guestbook",
+      "module": "content",
+      "description": "Menyetujui atau menghapus pesan ucapan di buku tamu",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 17,
+      "name": "content:media_manage",
+      "module": "content",
+      "description": "Mengunggah dan mengelola aset media galeri",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 18,
+      "name": "partners:read",
+      "module": "partners",
+      "description": "Melihat statistik mitra affiliate dan komisi",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 19,
+      "name": "partners:manage_payouts",
+      "module": "partners",
+      "description": "Memproses permohonan penarikan dana payout partner",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 20,
+      "name": "creators:read",
+      "module": "creators",
+      "description": "Melihat karya submission kreator dan reward",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 21,
+      "name": "creators:manage_submissions",
+      "module": "creators",
+      "description": "Meninjau dan menyetujui submission kreator",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 22,
+      "name": "system:backup",
+      "module": "system",
+      "description": "Membuat snapshot backup database persisten",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 23,
+      "name": "system:restore",
+      "module": "system",
+      "description": "Menjalankan uji restore pada lingkungan terisolasi",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 24,
+      "name": "system:audit_logs",
+      "module": "system",
+      "description": "Melihat log audit keamanan tanpa password/token",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 25,
+      "name": "system:settings",
+      "module": "system",
+      "description": "Mengatur konfigurasi platform dan mode payment gateway",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 26,
+      "name": "store:browse",
+      "module": "store",
+      "description": "Menjelajahi katalog store publik",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 27,
+      "name": "orders:create",
+      "module": "orders",
+      "description": "Membuat pesanan baru dan melakukan checkout",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 28,
+      "name": "orders:read_own",
+      "module": "orders",
+      "description": "Melihat riwayat pesanan dan kunci lisensi milik sendiri",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 29,
+      "name": "hbd:create_own",
+      "module": "content",
+      "description": "Membuat halaman ucapan HBD personal",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 30,
+      "name": "hbd:comment",
+      "module": "content",
+      "description": "Mengirimkan pesan ucapan ke guestbook",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    }
+  ],
+  "rolePermissions": [
+    {
+      "id": 1,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "users:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 2,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "users:manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 3,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "roles:manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 4,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "products:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 5,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "products:create",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 6,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "products:edit",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 7,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "products:delete",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 8,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "orders:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 9,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "orders:manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 10,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "orders:refund",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 11,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "payments:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 12,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "payments:reconcile",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 13,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "payments:manual_verify",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 14,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "content:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 15,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "content:manage_hbd",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 16,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "content:moderate_guestbook",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 17,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "content:media_manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 18,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "partners:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 19,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "partners:manage_payouts",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 20,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "creators:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 21,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "creators:manage_submissions",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 22,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "system:backup",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 23,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "system:restore",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 24,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "system:audit_logs",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 25,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "system:settings",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 26,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 27,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "orders:create",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 28,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "orders:read_own",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 29,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "hbd:create_own",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 30,
+      "roleName": "SUPER_ADMIN",
+      "permissionName": "hbd:comment",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 31,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "products:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 32,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "products:create",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 33,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "products:edit",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 34,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "products:delete",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 35,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "orders:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 36,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "orders:manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 37,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "orders:refund",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 38,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "payments:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 39,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "payments:reconcile",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 40,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "payments:manual_verify",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 41,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "system:audit_logs",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 42,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 43,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "orders:create",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 44,
+      "roleName": "STORE_MANAGER",
+      "permissionName": "orders:read_own",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 45,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "content:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 46,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "content:manage_hbd",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 47,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "content:moderate_guestbook",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 48,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "content:media_manage",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 49,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "system:audit_logs",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 50,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 51,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "hbd:create_own",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 52,
+      "roleName": "CONTENT_MANAGER",
+      "permissionName": "hbd:comment",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 53,
+      "roleName": "PARTNER",
+      "permissionName": "partners:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 54,
+      "roleName": "PARTNER",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 55,
+      "roleName": "PARTNER",
+      "permissionName": "orders:create",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 56,
+      "roleName": "PARTNER",
+      "permissionName": "orders:read_own",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 57,
+      "roleName": "CREATOR",
+      "permissionName": "creators:read",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 58,
+      "roleName": "CREATOR",
+      "permissionName": "creators:manage_submissions",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 59,
+      "roleName": "CREATOR",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.166Z"
+    },
+    {
+      "id": 60,
+      "roleName": "CREATOR",
+      "permissionName": "orders:create",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 61,
+      "roleName": "CREATOR",
+      "permissionName": "orders:read_own",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 62,
+      "roleName": "USER",
+      "permissionName": "store:browse",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 63,
+      "roleName": "USER",
+      "permissionName": "orders:create",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 64,
+      "roleName": "USER",
+      "permissionName": "orders:read_own",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 65,
+      "roleName": "USER",
+      "permissionName": "hbd:create_own",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    },
+    {
+      "id": 66,
+      "roleName": "USER",
+      "permissionName": "hbd:comment",
+      "createdAt": "2026-11-12T09:58:40.167Z"
+    }
+  ]
+}
